@@ -4,7 +4,9 @@ A convenience package to be used by the react-kit.
 
 ## How to publish
 
-Not sure yet as the package is linked to my account.
+1. Create an account first on [npm](https://www.npmjs.com/) and wait that your account will be added to the [org group](https://www.npmjs.com/org/codes-and-coffees)
+2. Run `npm adduser`
+3. Run `npm publish`
 
 ## Notes
 
