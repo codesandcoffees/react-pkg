@@ -1,6 +1,6 @@
 ## react-pkg
 
-A convenience package to be used by the react-kit.
+A convenience package to be used by the [react-kit](https://github.com/codesandcoffees/react-kit).
 
 ## How to publish
 
