@@ -11,3 +11,12 @@ A convenience package to be used by the [react-kit](https://github.com/codesandc
 ## Notes
 
 Created from running `npm run eject` in [create-react-app](https://github.com/facebook/create-react-app) on version [v1.1.0](https://github.com/facebook/create-react-app/releases/tag/v1.1.0)
+
+## Changelog
+```
+v1.0.1
+Change ES Lint config to Airbnb
+
+v1.0.0
+Init
+```
