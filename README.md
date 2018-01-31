@@ -2,6 +2,8 @@
 
 A convenience package to be used by the [react-kit](https://github.com/codesandcoffees/react-kit).
 
+View in [npm registery](https://www.npmjs.com/package/@codes-and-coffees/react-pkg)
+
 ## How to publish
 
 1. Create an account first on [npm](https://www.npmjs.com/) and wait that your account will be added to the [org group](https://www.npmjs.com/org/codes-and-coffees)
