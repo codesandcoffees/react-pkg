@@ -14,11 +14,14 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.0.4
+Add redux related dependencies
+Add sass related dependencies
+
 v1.0.3
 Fix dependencies for ES Lint stuff
 
-v1.0.2
-M/A had an issue publishing
+v1.0.2 (had an issue on publishing)
 
 v1.0.1
 Change ES Lint config to Airbnb
