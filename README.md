@@ -14,6 +14,9 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.0.2
+Fix dependencies for ES Lint stuff
+
 v1.0.1
 Change ES Lint config to Airbnb
 
