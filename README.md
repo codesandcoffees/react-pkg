@@ -2,6 +2,8 @@
 
 A convenience package to be used by the [react-kit](https://github.com/codesandcoffees/react-kit).
 
+![downloads](https://img.shields.io/npm/dm/@codes-and-coffees/react-pkg.svg)
+
 View in [npm registery](https://www.npmjs.com/package/@codes-and-coffees/react-pkg)
 
 ## How to publish
