@@ -1,6 +1,6 @@
 {
   "name": "@codes-and-coffees/react-pkg",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "List of packages to be used by the react-kit",
   "main": "index.js",
   "dependencies": {
