@@ -22,6 +22,9 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.0.6
+Update readme
+
 v1.0.5
 Integrate react-loadable
 
