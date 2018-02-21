@@ -2,12 +2,12 @@
 
 A convenience package to be used by the [react-kit](https://github.com/codesandcoffees/react-kit).
 
-![downloads](https://img.shields.io/npm/dm/@codes-and-coffees/react-pkg.svg?style=for-the-badge)
-![open issues](https://img.shields.io/github/issues/codesandcoffees/react-pkg.svg?style=for-the-badge)
-![open prs](https://img.shields.io/github/issues-pr/codesandcoffees/react-pkg.svg?style=for-the-badge)
-![code size](https://img.shields.io/github/languages/code-size/codesandcoffees/react-pkg.svg?style=for-the-badge)
-![repo size](https://img.shields.io/github/repo-size/codesandcoffees/react-pkg.svg?style=for-the-badge)
-![contributors](https://img.shields.io/github/contributors/codesandcoffees/react-pkg.svg?style=for-the-badge)
+![downloads](https://img.shields.io/npm/dm/@codes-and-coffees/react-pkg.svg)
+![open issues](https://img.shields.io/github/issues/codesandcoffees/react-pkg.svg)
+![open prs](https://img.shields.io/github/issues-pr/codesandcoffees/react-pkg.svg)
+![code size](https://img.shields.io/github/languages/code-size/codesandcoffees/react-pkg.svg)
+![repo size](https://img.shields.io/github/repo-size/codesandcoffees/react-pkg.svg)
+![contributors](https://img.shields.io/github/contributors/codesandcoffees/react-pkg.svg)
 
 View in [npm registery](https://www.npmjs.com/package/@codes-and-coffees/react-pkg)
 
