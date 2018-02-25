@@ -22,6 +22,9 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.0.9
+Remove sass related packages
+
 v1.0.8
 Add styled components
 
