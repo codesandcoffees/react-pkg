@@ -22,11 +22,14 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.0.8
+Add styled components
+
 v1.0.7
 Update readme
 
 v1.0.5
-Integrate react-loadable
+Add react-loadable
 
 v1.0.4
 Add redux related dependencies
