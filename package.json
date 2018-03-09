@@ -1,6 +1,6 @@
 {
   "name": "@codes-and-coffees/react-pkg",
-  "version": "1.0.13",
+  "version": "1.0.16",
   "description": "List of packages to be used by the react-kit",
   "main": "index.js",
   "dependencies": {
@@ -31,7 +31,6 @@
     "html-webpack-plugin": "2.29.0",
     "husky": "0.14.3",
     "jest": "20.0.4",
-    "json": "^9.0.6",
     "lint-staged": "7.0.0",
     "object-assign": "4.1.1",
     "postcss-flexbugs-fixes": "3.2.0",
@@ -57,13 +56,7 @@
     "whatwg-fetch": "2.0.3"
   },
   "scripts": {
-    "postinstall": "npm run add-start; npm run add-deploy; npm run add-build; npm run add-build-only; npm run add-precommit; npm run add-lint-staged",
-    "add-start": "node node_modules/json/lib/json.js -I -f package.json -e 'this.scripts.start=\"node scripts/start.js\"'",
-    "add-deploy": "node node_modules/json/lib/json.js -I -f package.json -e 'this.scripts.deploy=\"node scripts/build.js && gh-pages -d build\"'",
-    "add-build": "node node_modules/json/lib/json.js -I -f package.json -e 'this.scripts.build=\"node scripts/build.js && pushstate-server build\"'",
-    "add-build-only": "node node_modules/json/lib/json.js -I -f package.json -e 'this.scripts[\"build-only\"]=\"node scripts/build.js\"'",
-    "add-precommit": "node node_modules/json/lib/json.js -I -f package.json -e 'this.scripts.precommit=\"lint-staged\"'",
-    "add-lint-staged": "node node_modules/json/lib/json.js -I -f package.json -e 'this[\"lint-staged\"]={\"*.js\":[\"eslint\", \"git add\"]}'"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "react",
