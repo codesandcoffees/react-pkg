@@ -22,6 +22,9 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.0.12
+Fix automation of adding scripts
+
 v1.0.11
 Automate adding of scripts to `package.json`
 
