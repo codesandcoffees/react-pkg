@@ -22,6 +22,10 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.0.10
+Add scripts
+Add pre-commit hook
+
 v1.0.9
 Remove sass related packages
 
