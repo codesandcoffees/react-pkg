@@ -1,6 +1,6 @@
 {
   "name": "@codes-and-coffees/react-pkg",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "List of packages to be used by the react-kit",
   "main": "index.js",
   "dependencies": {
@@ -58,12 +58,12 @@
   },
   "scripts": {
     "postinstall": "npm run add-start; npm run add-deploy; npm run add-build; npm run add-build-only; npm run add-precommit; npm run add-lint-staged",
-    "add-start": "node ./node_modules/json/lib/json.js -I -f package.json -e 'this.scripts.start=\"node scripts/start.js\"'",
-    "add-deploy": "node ./node_modules/json/lib/json.js -I -f package.json -e 'this.scripts.deploy=\"node scripts/build.js && gh-pages -d build\"'",
-    "add-build": "node ./node_modules/json/lib/json.js -I -f package.json -e 'this.scripts.build=\"node scripts/build.js && pushstate-server build\"'",
-    "add-build-only": "node ./node_modules/json/lib/json.js -I -f package.json -e 'this.scripts[\"build-only\"]=\"node scripts/build.js\"'",
-    "add-precommit": "node ./node_modules/json/lib/json.js -I -f package.json -e 'this.scripts.precommit=\"lint-staged\"'",
-    "add-lint-staged": "node ./node_modules/json/lib/json.js -I -f package.json -e 'this[\"lint-staged\"]={\"*.js\":[\"eslint\", \"git add\"]}'"
+    "add-start": "node node_modules/json/lib/json.js -I -f package.json -e 'this.scripts.start=\"node scripts/start.js\"'",
+    "add-deploy": "node node_modules/json/lib/json.js -I -f package.json -e 'this.scripts.deploy=\"node scripts/build.js && gh-pages -d build\"'",
+    "add-build": "node node_modules/json/lib/json.js -I -f package.json -e 'this.scripts.build=\"node scripts/build.js && pushstate-server build\"'",
+    "add-build-only": "node node_modules/json/lib/json.js -I -f package.json -e 'this.scripts[\"build-only\"]=\"node scripts/build.js\"'",
+    "add-precommit": "node node_modules/json/lib/json.js -I -f package.json -e 'this.scripts.precommit=\"lint-staged\"'",
+    "add-lint-staged": "node node_modules/json/lib/json.js -I -f package.json -e 'this[\"lint-staged\"]={\"*.js\":[\"eslint\", \"git add\"]}'"
   },
   "keywords": [
     "react",
