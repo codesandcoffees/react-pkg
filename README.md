@@ -2,8 +2,8 @@
 
 A convenience package to be used by the [react-kit](https://github.com/codesandcoffees/react-kit).
 
+![node version](https://img.shields.io/node/v/@codes-and-coffees/react-pkg.svg)
 ![npm version](https://img.shields.io/npm/v/@codes-and-coffees/react-pkg.svg)
-![npm version](https://img.shields.io/node/v/@codes-and-coffees/react-pkg.svg)
 ![downloads](https://img.shields.io/npm/dm/@codes-and-coffees/react-pkg.svg)
 ![open issues](https://img.shields.io/github/issues/codesandcoffees/react-pkg.svg)
 ![open prs](https://img.shields.io/github/issues-pr/codesandcoffees/react-pkg.svg)
@@ -25,7 +25,7 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 ## Changelog
 ```
 v1.0.17
-Show `node` and `npm` versions
+Show node and npm versions
 
 v1.0.16
 Remove automated adding of scripts to package.json
