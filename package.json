@@ -1,6 +1,6 @@
 {
   "name": "@codes-and-coffees/react-pkg",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "List of packages to be used by the react-kit",
   "main": "index.js",
   "dependencies": {
@@ -56,7 +56,7 @@
     "whatwg-fetch": "2.0.3"
   },
   "engines": {
-    "node": "7.10.1"
+    "node": "8.11.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
