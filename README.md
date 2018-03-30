@@ -24,6 +24,9 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.0.18
+Add pushstate-server
+
 v1.0.17
 Show node and npm versions
 

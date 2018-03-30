@@ -1,6 +1,6 @@
 {
   "name": "@codes-and-coffees/react-pkg",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "List of packages to be used by the react-kit",
   "main": "index.js",
   "dependencies": {
@@ -37,6 +37,7 @@
     "postcss-loader": "2.0.8",
     "promise": "8.0.1",
     "prop-types": "15.6.0",
+    "pushstate-server": "3.0.1",
     "raf": "3.4.0",
     "react": "16.2.0",
     "react-dev-utils": "5.0.0",
