@@ -1,4 +1,4 @@
-## react-pkg
+<img src="/docs/logo.jpg" alt="React Kit Logo"/>
 
 A convenience package to be used by the [react-kit](https://github.com/codesandcoffees/react-kit).
 
