@@ -85,7 +85,7 @@ Init
 [issues-img]: https://img.shields.io/github/issues/codesandcoffees/react-pkg.svg
 [issues-url]: https://github.com/codesandcoffees/react-pkg/issues
 [node-img]: https://img.shields.io/node/v/@codes-and-coffees/react-pkg.svg
-[node_url]: https://nodejs.org/en/
+[node-url]: https://nodejs.org/en/
 [npm-img]: https://img.shields.io/npm/v/@codes-and-coffees/react-pkg.svg
 [npm-url]: https://www.npmjs.com/package/@codes-and-coffees/react-pkg
 [pr-img]: https://img.shields.io/github/issues-pr/codesandcoffees/react-pkg.svg
