@@ -2,9 +2,11 @@
 
 A convenience package to be used by the [react-kit](https://github.com/codesandcoffees/react-kit).
 
+[![deps][deps-img]][deps-url]
 ![node version](https://img.shields.io/node/v/@codes-and-coffees/react-pkg.svg)
 ![npm version](https://img.shields.io/npm/v/@codes-and-coffees/react-pkg.svg)
-![downloads](https://img.shields.io/npm/dm/@codes-and-coffees/react-pkg.svg)
+
+[![downloads][downloads-img]][downloads-url]
 ![open issues](https://img.shields.io/github/issues/codesandcoffees/react-pkg.svg)
 ![open prs](https://img.shields.io/github/issues-pr/codesandcoffees/react-pkg.svg)
 ![code size](https://img.shields.io/github/languages/code-size/codesandcoffees/react-pkg.svg)
@@ -73,3 +75,8 @@ Change ES Lint config to Airbnb
 v1.0.0
 Init
 ```
+
+[deps-img]: https://img.shields.io/david/codesandcoffees/react-pkg.svg
+[deps-url]: https://david-dm.org/codesandcoffees/react-pkg
+[downloads-img]: https://img.shields.io/npm/dm/@codes-and-coffees/react-pkg.svg
+[downloads-url]: https://npmcharts.com/compare/@codes-and-coffees/react-pkg?minimal=true
