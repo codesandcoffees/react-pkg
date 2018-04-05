@@ -2,9 +2,9 @@
 
 A convenience package to be used by the [react-kit](https://github.com/codesandcoffees/react-kit).
 
-[![deps][deps-img]][deps-url]
-[![node version][node-img]][node-url]
 [![npm version][npm-img]][npm-url]
+[![node version][node-img]][node-url]
+[![deps][deps-img]][deps-url]
 
 [![downloads][downloads-img]][downloads-url]
 [![open issues][issues-img]][issues-url]
