@@ -1,18 +1,22 @@
-<img src="/docs/logo.jpg" alt="React Kit Logo"/>
+<div align="center">
 
-A convenience package to be used by the [react-kit](https://github.com/codesandcoffees/react-kit).
+  <img src="/docs/logo.jpg" alt="React Kit Logo"/>
 
-[![npm version][npm-img]][npm-url]
-[![node version][node-img]][node-url]
-[![deps][deps-img]][deps-url]
+  [![npm version][npm-img]][npm-url]
 
-[![downloads][downloads-img]][downloads-url]
-[![open issues][issues-img]][issues-url]
-[![open prs][pr-img]][pr-url]
-![code size](https://img.shields.io/github/languages/code-size/codesandcoffees/react-pkg.svg)
-[![contributors][contributor-img]][contributor-url]
+  [![node version][node-img]][node-url]
+  [![deps][deps-img]][deps-url]
+  [![downloads][downloads-img]][downloads-url]
 
-View in [npm registery](https://www.npmjs.com/package/@codes-and-coffees/react-pkg)
+  [![open issues][issues-img]][issues-url]
+  [![open prs][pr-img]][pr-url]
+  ![code size](https://img.shields.io/github/languages/code-size/codesandcoffees/react-pkg.svg)
+  [![contributors][contributor-img]][contributor-url]
+
+  # react-pkg
+  A convenience package
+
+</div>
 
 ## How to publish
 
