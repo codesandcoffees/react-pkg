@@ -30,6 +30,9 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.1.0
+Update packages
+
 v1.0.19
 Remove pushstate-server
 
