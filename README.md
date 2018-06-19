@@ -30,6 +30,10 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.1.2
+Add stylelint packages
+Fix vulnerabilities
+
 v1.1.1
 Update packages
 
