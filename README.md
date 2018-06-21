@@ -1,22 +1,18 @@
-<div align="center">
+![react-pkg logo](https://raw.githubusercontent.com/codesandcoffees/react-pkg/master/docs/logo.jpg)
 
-  <img src="/docs/logo.jpg" alt="React Kit Logo"/>
+#### Package Details
 
-  [![npm version][npm-img]][npm-url]
+[![npm version][npm-img]][npm-url]
+[![node version][node-img]][node-url]
+[![deps][deps-img]][deps-url]
+[![downloads][downloads-img]][downloads-url]
 
-  [![node version][node-img]][node-url]
-  [![deps][deps-img]][deps-url]
-  [![downloads][downloads-img]][downloads-url]
+#### Repo Details
 
-  [![open issues][issues-img]][issues-url]
-  [![open prs][pr-img]][pr-url]
-  ![code size](https://img.shields.io/github/languages/code-size/codesandcoffees/react-pkg.svg)
-  [![contributors][contributor-img]][contributor-url]
-
-  # react-pkg
-  A convenience package
-
-</div>
+[![open issues][issues-img]][issues-url]
+[![open prs][pr-img]][pr-url]
+![code size](https://img.shields.io/github/languages/code-size/codesandcoffees/react-pkg.svg)
+[![contributors][contributor-img]][contributor-url]
 
 ## How to publish
 
@@ -30,6 +26,10 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+
+v1.1.3
+Minor update to readme
+
 v1.1.2
 Add stylelint packages
 Fix vulnerabilities
