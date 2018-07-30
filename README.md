@@ -1,4 +1,5 @@
 ![react-pkg logo](https://raw.githubusercontent.com/codesandcoffees/react-pkg/master/docs/logo.jpg)
+A convenience package for react applications.
 
 #### Package Details
 
@@ -11,7 +12,7 @@
 
 [![open issues][issues-img]][issues-url]
 [![open prs][pr-img]][pr-url]
-![code size](https://img.shields.io/github/languages/code-size/codesandcoffees/react-pkg.svg)
+![code size][code-size-img]
 [![contributors][contributor-img]][contributor-url]
 
 ## How to publish
@@ -26,6 +27,8 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.1.4
+Update packages
 
 v1.1.3
 Minor update to readme
@@ -90,17 +93,18 @@ v1.0.0
 Init
 ```
 
-[contributor-img]: https://img.shields.io/github/contributors/codesandcoffees/react-pkg.svg
+[contributor-img]: https://img.shields.io/github/contributors/codesandcoffees/react-pkg.svg?style=flat-square
 [contributor-url]: https://github.com/codesandcoffees/react-pkg/graphs/contributors
-[deps-img]: https://img.shields.io/david/codesandcoffees/react-pkg.svg
+[deps-img]: https://img.shields.io/david/codesandcoffees/react-pkg.svg?style=flat-square
 [deps-url]: https://david-dm.org/codesandcoffees/react-pkg
-[downloads-img]: https://img.shields.io/npm/dm/@codes-and-coffees/react-pkg.svg
+[downloads-img]: https://img.shields.io/npm/dm/@codes-and-coffees/react-pkg.svg?style=flat-square
 [downloads-url]: https://npmcharts.com/compare/@codes-and-coffees/react-pkg?minimal=true
-[issues-img]: https://img.shields.io/github/issues/codesandcoffees/react-pkg.svg
+[issues-img]: https://img.shields.io/github/issues/codesandcoffees/react-pkg.svg?style=flat-square
 [issues-url]: https://github.com/codesandcoffees/react-pkg/issues
-[node-img]: https://img.shields.io/node/v/@codes-and-coffees/react-pkg.svg
+[node-img]: https://img.shields.io/node/v/@codes-and-coffees/react-pkg.svg?style=flat-square
 [node-url]: https://nodejs.org/en/
-[npm-img]: https://img.shields.io/npm/v/@codes-and-coffees/react-pkg.svg
+[npm-img]: https://img.shields.io/npm/v/@codes-and-coffees/react-pkg.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/@codes-and-coffees/react-pkg
-[pr-img]: https://img.shields.io/github/issues-pr/codesandcoffees/react-pkg.svg
+[pr-img]: https://img.shields.io/github/issues-pr/codesandcoffees/react-pkg.svg?style=flat-square
 [pr-url]: https://github.com/codesandcoffees/react-pkg/pulls
+[code-size-img]: https://img.shields.io/github/languages/code-size/codesandcoffees/react-pkg.svg?style=flat-square
