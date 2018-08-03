@@ -93,18 +93,18 @@ v1.0.0
 Init
 ```
 
-[contributor-img]: https://img.shields.io/github/contributors/codesandcoffees/react-pkg.svg?style=flat-square&maxAge=3600
+[contributor-img]: https://img.shields.io/github/contributors/codesandcoffees/react-pkg.svg?style=flat-square&maxAge=86400
 [contributor-url]: https://github.com/codesandcoffees/react-pkg/graphs/contributors
-[deps-img]: https://img.shields.io/david/codesandcoffees/react-pkg.svg?style=flat-square&maxAge=3600
+[deps-img]: https://img.shields.io/david/codesandcoffees/react-pkg.svg?style=flat-square&maxAge=86400
 [deps-url]: https://david-dm.org/codesandcoffees/react-pkg
-[downloads-img]: https://img.shields.io/npm/dm/@codes-and-coffees/react-pkg.svg?style=flat-square&maxAge=3600
+[downloads-img]: https://img.shields.io/npm/dm/@codes-and-coffees/react-pkg.svg?style=flat-square&maxAge=86400
 [downloads-url]: https://npmcharts.com/compare/@codes-and-coffees/react-pkg?minimal=true
-[issues-img]: https://img.shields.io/github/issues/codesandcoffees/react-pkg.svg?style=flat-square&maxAge=3600
+[issues-img]: https://img.shields.io/github/issues/codesandcoffees/react-pkg.svg?style=flat-square&maxAge=86400
 [issues-url]: https://github.com/codesandcoffees/react-pkg/issues
-[node-img]: https://img.shields.io/node/v/@codes-and-coffees/react-pkg.svg?style=flat-square&maxAge=3600
+[node-img]: https://img.shields.io/node/v/@codes-and-coffees/react-pkg.svg?style=flat-square&maxAge=86400
 [node-url]: https://nodejs.org/en/
-[npm-img]: https://img.shields.io/npm/v/@codes-and-coffees/react-pkg.svg?style=flat-square&maxAge=3600
+[npm-img]: https://img.shields.io/npm/v/@codes-and-coffees/react-pkg.svg?style=flat-square&maxAge=86400
 [npm-url]: https://www.npmjs.com/package/@codes-and-coffees/react-pkg
-[pr-img]: https://img.shields.io/github/issues-pr/codesandcoffees/react-pkg.svg?style=flat-square&maxAge=3600
+[pr-img]: https://img.shields.io/github/issues-pr/codesandcoffees/react-pkg.svg?style=flat-square&maxAge=86400
 [pr-url]: https://github.com/codesandcoffees/react-pkg/pulls
-[code-size-img]: https://img.shields.io/github/languages/code-size/codesandcoffees/react-pkg.svg?style=flat-square&maxAge=3600
+[code-size-img]: https://img.shields.io/github/languages/code-size/codesandcoffees/react-pkg.svg?style=flat-square&maxAge=86400
