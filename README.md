@@ -27,6 +27,9 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.1.5
+Update packages
+
 v1.1.4
 Update packages
 
