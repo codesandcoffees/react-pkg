@@ -27,6 +27,9 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.1.7
+Ignore README.md and docs folder from npm publish
+
 v1.1.6
 Ignore package-lock
 
