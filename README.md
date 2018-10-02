@@ -23,7 +23,7 @@ A convenience package for react applications.
 
 ## Notes
 
-Created from running `npm run eject` in [create-react-app](https://github.com/facebook/create-react-app) on version [v1.1.0](https://github.com/facebook/create-react-app/releases/tag/v1.1.0)
+Created from running `npm run eject` in [create-react-app](https://github.com/facebook/create-react-app) on version [v2.0.3](https://github.com/facebook/create-react-app/releases/tag/v2.0.3)
 
 ## Changelog
 ```
