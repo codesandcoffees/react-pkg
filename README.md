@@ -27,6 +27,9 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.2.0
+Update packages based on create-react-app v2.0.3
+
 v1.1.7
 Ignore README.md and docs folder from npm publish
 
