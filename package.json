@@ -67,7 +67,7 @@
     "workbox-webpack-plugin": "3.6.2"
   },
   "engines": {
-    "node": "8.11.3"
+    "node": "8.x || 9.x || 10.x"
   },
   "keywords": [
     "react",
