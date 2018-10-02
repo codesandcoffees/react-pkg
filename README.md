@@ -27,6 +27,9 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.2.1
+Update package engine node version to support >8
+
 v1.2.0
 Update packages based on create-react-app v2.0.3
 
