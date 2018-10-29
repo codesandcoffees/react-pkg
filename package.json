@@ -83,5 +83,8 @@
   "bugs": {
     "url": "https://github.com/codesandcoffees/react-pkg/issues"
   },
-  "homepage": "https://github.com/codesandcoffees/react-pkg#readme"
+  "homepage": "https://github.com/codesandcoffees/react-pkg#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
