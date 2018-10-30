@@ -3,6 +3,9 @@ A convenience package for react applications.
 
 #### Package Details
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/codesandcoffees/react-pkg.svg)](https://greenkeeper.io/)
+
+
 [![npm version][npm-img]][npm-url]
 [![node version][node-img]][node-url]
 [![deps][deps-img]][deps-url]
