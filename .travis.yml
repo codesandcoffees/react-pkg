@@ -1,21 +1,9 @@
-language: node_js
-node_js:
-- '8'
-install:
-- npm i
-script:
-- npm audit
-branches:
-  only:
-  - master
-cache:
-  directories:
-  - node_modules
 deploy:
-- provider: npm
-    email: iamdevlinph@gmail.com
-    skip-cleanup: true
-    on:
-      tags: true
-      branch: master
-    api_key: Aek9s5X4ailjc0qnkGtEnIA+nLuM9+4twCYZuIijtlSfDt6DtuxIAD6LFeHoprT0tjYhS4xKdcbahs8K2XN++6rYJne2vSWklhNvyb7e3vMBRC7CRs3KHox2M6nawzL1qkvEnTiM4sEu1JRJQchUyOSv+zFkvZgLEAooU8+/d/uePa5eW4GEtDqmWJC0uus3JKj7r4jWFJY1xDH9GSbTvZOGuYjzO9pr5YAZRnIvaXFkF3XP5kvrh7aGH4o/PyQtZdvmh3c3wcvzNLS+W8vf45n5GnYANPEwmV8DvFCveABAjPkEPO0qYal9TugSqU+CGmdTC1N9jGyUdaKisQM8aBvc1JqhGihQ2SfrrLBZc7e1g8vdk36TyLXm6hxPTReE4pZDg5N0VFINAa8SKE6OJepuGOdIiqciWfgD6L001J348k8iVewkbGx9YAIMpi3RnLkHi4Bbd9tCja4EWJeFj3/Ar9nZJc+Bj0mQrvVZRFWo3FicKpKmFGlcRR5NbgkZPKROxFDQuhLAZloBDJv509PMnRWWMUyLSXmdUBS9AxQNmw9WUkdneSuP+ho6NUVK6jniOIRUL8IO3ktPOTFMl/XR3OLZDYHuaQ9p57XrKVF0uq64mQnq0MZWheoYpPhzqdjjR/gHXs9BctewFI3DawIbuV9zNuqDFrR0kLmrDdI=
+  provider: npm
+  email: iamdevlinph@gmail.com
+  api_key:
+    secure: rzASqa2tgijNO2HyneigBByICnLKIauXPRak14CJSDb/1O6+iRzP4rW7SCNNozjsbMQEX7PEnVE3IP/ePEBVESpfGUTfkgqaneNU8DE7Fn+Z95l7yWuEugg0i94QNe9dlxyL/Me/vnNgjUvlaql48/3e9RTTVITrSKa+HUh/p71nLXOAtUJSUBltQ9pnqTrSx12sc52vFqTh5UiNA6a1wp6vXEl2bxv7o5iLMMWlWit6yF6pEbHVMqLNFErVp3kth00u7rzY1Je1HenuPCjHsnfFuzhQ5q+5SC0Pa1RYCR3oI0BLwiFJizXu5C58zh790sgGXzeQurC6pq+/wMpa+aw+Jt57nWCZX3NP30ZMarbzLDUu3RIVZGgIimkV+q3P88zAtaUtUN0NBylKP853mhyxAsqNDiklAdvPWrjw2/yO2p+XdJNBosaLXGBYbWT56qFK7NwuJgqe8dTYwioboPN5i3pGgW63FSJPoNP7uPF38Ru85I3KFfd5Smhn3SB9LEgbHQEy1ebVwktSRich1Gir9LLOarDWIrdLWXtd+OWNnPRtAT0zhgEtl+CPe+C2PBMgPzsWpXAoa/E+TZ5erbo7iwYb3CChlEBQyfWswcifYAaICqwxqYEBcIQOB6DfYcKnyA8X5BjUmcGTxVzrZUQfRqAtUR7OYASNLR/1Xis=
+  on:
+    tags: true
+    repo: codesandcoffees/react-pkg
+    branch: master
