@@ -3,7 +3,7 @@
   "version": "1.2.4",
   "description": "A convenience package.",
   "dependencies": {
-    "@babel/core": "7.1.2",
+    "@babel/core": "7.1.5",
     "@svgr/webpack": "3.1.0",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "10.0.1",
