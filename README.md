@@ -16,6 +16,19 @@ A convenience package for react applications.
 ![code size][code-size-img]
 [![contributors][contributor-img]][contributor-url]
 
+## Installation
+
+#### Yarn (Recommended)
+```
+yarn install @codes-and-coffees/react-pkg --save
+```
+
+#### NPM
+```
+npm install @codes-and-coffees/react-pkg --save
+```
+
+
 ## How to publish
 
 1. Create an account first on [npm](https://www.npmjs.com/) and wait that your account will be added to the [org group](https://www.npmjs.com/org/codes-and-coffees)
