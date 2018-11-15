@@ -1,10 +1,10 @@
 {
   "groups": {
-    "dev": {
+    "groupA": {
       "packages": [
       ]
     },
-    "devDep": {
+    "groupB": {
       "packages": [
       ]
     }

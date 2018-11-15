@@ -41,6 +41,10 @@ Created from running `npm run eject` in [create-react-app](https://github.com/fa
 
 ## Changelog
 ```
+v1.2.5
+Update dependencies
+Use yarn
+
 v1.2.3
 Update dependencies
 
