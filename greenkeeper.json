@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "groupA": {
+      "packages": [
+      ]
+    },
+    "groupB": {
+      "packages": [
+      ]
+    }
+  }
+}
