@@ -1,11 +1,94 @@
 {
   "groups": {
-    "groupA": {
+    "babel-stuff": {
       "packages": [
+        "babel-eslint/package.json",
+        "babel-jest/package.json",
+        "babel-loader/package.json",
+        "babel-plugin-named-asset-import/package.json",
+        "babel-preset-react-app/package.json"
       ]
     },
-    "groupB": {
+    "eslint-stuff": {
       "packages": [
+        "eslint-config-airbnb/package.json",
+        "eslint-loader/package.json",
+        "eslint-plugin-flowtype/package.json",
+        "eslint-plugin-import/package.json",
+        "eslint-plugin-jsx-a11y/package.json",
+        "eslint-plugin-react/package.json",
+        "eslint/package.json"
+      ]
+    },
+    "jest": {
+      "packages": [
+        "jest-pnp-resolver/package.json",
+        "jest-resolve/package.json",
+        "jest/package.json"
+      ]
+    },
+    "postcss": {
+      "packages": [
+        "postcss-flexbugs-fixes/package.json",
+        "postcss-loader/package.json",
+        "postcss-preset-env/package.json",
+        "postcss-safe-parser/package.json"
+      ]
+    },
+    "pre-commit": {
+      "packages": [
+        "husky/package.json",
+        "lint-staged/package.json"
+      ]
+    },
+    "react-stuff": {
+      "packages": [
+        "prop-types/package.json",
+        "react-app-polyfill/package.json",
+        "react-dev-utils/package.json",
+        "react-dom/package.json",
+        "react-loadable/package.json",
+        "react-redux/package.json",
+        "react-router-dom/package.json",
+        "react/package.json",
+        "redux-saga/package.json",
+        "redux/package.json"
+      ]
+    },
+    "style-stuff": {
+      "packages": [
+        "styled-components/package.json",
+        "stylelint-config-recommended/package.json",
+        "stylelint-config-styled-components/package.json",
+        "stylelint-processor-styled-components/package.json",
+        "stylelint/package.json"
+      ]
+    },
+    "webpack-stuff": {
+      "packages": [
+        "case-sensitive-paths-webpack-plugin/package.json",
+        "css-loader/package.json",
+        "file-loader/package.json",
+        "html-webpack-plugin/package.json",
+        "mini-css-extract-plugin/package.json",
+        "optimize-css-assets-webpack-plugin/package.json",
+        "pnp-webpack-plugin/package.json",
+        "style-loader/package.json",
+        "terser-webpack-plugin/package.json",
+        "url-loader/package.json",
+        "webpack-dev-server/package.json",
+        "webpack-manifest-plugin/package.json",
+        "webpack/package.json",
+        "workbox-webpack-plugin/package.json"
+      ]
+    },
+    "etc": {
+      "packages": [
+        "bfj/package.json",
+        "dotenv-expand/package.json",
+        "dotenv/package.json",
+        "fs-extra/package.json",
+        "gh-pages/package.json"
       ]
     }
   }
