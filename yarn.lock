@@ -6572,9 +6572,10 @@ pn@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/pn/-/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
 
-pnp-webpack-plugin@1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/pnp-webpack-plugin/-/pnp-webpack-plugin-1.2.1.tgz#cd9d698df2a6fcf7255093c1c9511adf65b9421b"
+pnp-webpack-plugin@1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/pnp-webpack-plugin/-/pnp-webpack-plugin-1.4.0.tgz#ee907dbb0fe7207c35e37c8e9c8bc490bdff575f"
+  integrity sha512-S+Cjd7nWHTGtpvFBbbDn2RkSNRm++nvxNJ9WMiYB+eErsjGSuTYoEXxg+ELKU9giYsxz5ab+R8NyHnWF1EKZeg==
   dependencies:
     ts-pnp "^1.0.0"
 
